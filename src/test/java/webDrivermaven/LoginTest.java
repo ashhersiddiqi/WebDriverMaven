@@ -45,12 +45,11 @@ public static WebDriver driver;
 		
 		// added new comments
 		
-		
+		// add few more comments here
 		
 	}
 
-	
-	
+		
 	@AfterSuite
 	public void tearDown() {
 		driver.quit();
