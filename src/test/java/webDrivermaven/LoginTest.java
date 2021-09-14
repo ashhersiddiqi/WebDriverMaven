@@ -43,7 +43,7 @@ public static WebDriver driver;
 //		WebElement pass = driver.findElement(By.xpath("//input[@name='password']"));
 //		pass.sendKeys("Careful123");
 		
-		// removed
+		// comments
 		
 		
 		
